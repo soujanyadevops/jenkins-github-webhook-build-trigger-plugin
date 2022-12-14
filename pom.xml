@@ -63,4 +63,7 @@
   <properties>
     <jenkins.version>2.73</jenkins.version>
   </properties>
+         <properties>
+   <version-own>0.0.21-SNAPSHOT</version-own>
+</properties>
 </project>
